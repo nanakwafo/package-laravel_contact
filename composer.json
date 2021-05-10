@@ -15,6 +15,12 @@
         "psr-4": {
             "Kwafomensah\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kwafomensah\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
-
 }
