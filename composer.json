@@ -9,7 +9,7 @@
             "email": "nanamensah1140@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-main",
     "require": {},
     "autoload": {
         "psr-4": {
