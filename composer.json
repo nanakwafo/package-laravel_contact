@@ -9,7 +9,7 @@
             "email": "nanamensah1140@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^7.3|^8.0"
     },
