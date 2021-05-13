@@ -24,11 +24,5 @@
                 "Kwafomensah\\Contact\\ContactServiceProvider"
             ]
         }
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packagist.org"
-        }
-    ]
+    }
 }
